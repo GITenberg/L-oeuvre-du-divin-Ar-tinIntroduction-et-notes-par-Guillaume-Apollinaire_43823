@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6075
     wikipedia: http://en.wikipedia.org/wiki/Guillaume_Apollinaire
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43823#L-oeuvre-du-divin-Ar-tinIntroduction-et-notes-par-Guillaume-Apollinaire
 gutenberg_bookshelf: FR Séduction et libertinage
 gutenberg_issued: '2013-09-27'
 gutenberg_type: Text
